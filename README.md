@@ -1,5 +1,5 @@
-# Christmas Countdown Clock
-This project is a Christmas date countdown clock made with JavaScript and HTML
+# Date Countdown
+This project is a date countdown clock made with HTML, CSS and JavaScript
 
 ## Demo
 Visit directly from your web browser:
