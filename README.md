@@ -15,11 +15,11 @@ Visit directly from your web browser:
 
 ## 📸 Screenshots
 
-![Desktop screen](images/.png)
+![Desktop screen](images/desktop.gif)
 
-![Tablet screen](images/.png)
+![Tablet screen](images/tablet.gif)
 
-![Mobile screen](images/.png)
+![Mobile screen](images/mobile.gif)
 
 ## 🛠 Technologies Used
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) — Markup structure
