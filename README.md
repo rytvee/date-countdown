@@ -1,49 +1,44 @@
-# Date Countdown
+# 📅 Date Countdown
 A lightweight and responsive date countdown web application built with HTML, CSS, and JavaScript.
 Simply select a future date, and the app will display the remaining days, hours, minutes, and seconds until that date.
 
-## Demo
+## 🌐 Demo
 Visit directly from your web browser:
-
 [Date Countdown](https://rytvee.github.io/christmas-countdown-app/)
 
-🚀 Features
-📅 Live countdown to any selected date
+## 🚀 Features
+- 🕒  Live countdown to any selected date
+- ⏳ Updates every second
+- 📱 Fully responsive design for mobile and desktop
 
-⏳ Updates every second
+## 📸 Screenshots
 
-📱 Fully responsive design for mobile and desktop
+![Desktop screen](images/.png)
 
-🎨 Simple and clean UI with customizable styles
+![Tablet screen](images/.png)
 
-🖱 Easy to use — no installation required
+![Mobile screen](images/.png)
 
-📸 Demo
+## 🛠 Technologies Used
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) — Markup structure
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) — Styling and layout
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) — Countdown logic and dynamic updates
 
-(Replace with an actual screenshot of your app)
-
-🛠 Technologies Used
-HTML5 — Markup structure
-
-CSS3 — Styling and layout
-
-JavaScript (ES6) — Countdown logic and dynamic updates
-
-📂 Project Structure
-bash
-Copy code
+## 📂 Project Structure
+```
 date-countdown/
 │── index.html      # Main HTML page
 │── style.css       # App styling
 │── script.js       # Countdown logic
 └── README.md       # Project documentation
-🔧 How to Use
-Clone this repository:
+```
 
-bash
-Copy code
+## 🔧 How to Use
+Clone this repository:
+```
 git clone https://github.com/your-username/date-countdown.git
-Open index.html in your browser.
+```
+Open `index.html` in your browser.
 
 Select a future date from the input field.
 
