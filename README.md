@@ -1,15 +1,17 @@
 # 📅 Date Countdown
 A lightweight and responsive date countdown web application built with HTML, CSS, and JavaScript.
-Simply select a future date, and the app will display the remaining days, hours, minutes, and seconds until that date.
+
 
 ## 🌐 Demo
 Visit directly from your web browser:
-[Date Countdown](https://rytvee.github.io/christmas-countdown-app/)
+[Date Countdown](https://rytvee.github.io/christmas-countdown/)
 
-## 🚀 Features
+
+## ✨ Features
 - 🕒  Live countdown to any selected date
 - ⏳ Updates every second
 - 📱 Fully responsive design for mobile and desktop
+
 
 ## 📸 Screenshots
 
@@ -28,29 +30,21 @@ Visit directly from your web browser:
 ```
 date-countdown/
 │── index.html      # Main HTML page
-│── style.css       # App styling
+│── style.css       # Styling
 │── script.js       # Countdown logic
 └── README.md       # Project documentation
 ```
 
 ## 🔧 How to Use
-Clone this repository:
+- Clone this repository:
 ```
 git clone https://github.com/your-username/date-countdown.git
 ```
-Open `index.html` in your browser.
+- Open `index.html` in your browser.
 
-Select a future date from the input field.
+- Watch the live countdown update in real-time.
 
-Watch the live countdown update in real-time.
 
-🎯 Future Improvements
-Add multiple countdowns
-
-Include themes (dark/light mode)
-
-Support time selection alongside date
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
