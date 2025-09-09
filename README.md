@@ -47,7 +47,7 @@ date-countdown/
 ## 🔧 How to Use
 - Clone this repository:
 ```
-git clone https://github.com/your-username/date-countdown.git
+git clone https://github.com/rytvee/date-countdown.git
 ```
 - Open `index.html` in your browser.
 
